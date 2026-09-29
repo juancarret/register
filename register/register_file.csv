@@ -1,0 +1,109 @@
+Materia,Creditos,Universidad,Ubicacion,Facultad,Carrera
+Introduction to Programming,4,California Institute of Technology,"Pasadena, California",Engineering,Computer Science
+Data Structures,5,California Institute of Technology,"Pasadena, California",Engineering,Computer Science
+Database Systems,4,California Institute of Technology,"Pasadena, California",Engineering,Computer Science
+Circuit Analysis,4,California Institute of Technology,"Pasadena, California",Engineering,Electrical Engineering
+Digital Systems,5,California Institute of Technology,"Pasadena, California",Engineering,Electrical Engineering
+Embedded Systems,4,California Institute of Technology,"Pasadena, California",Engineering,Electrical Engineering
+Accounting I,3,California Institute of Technology,"Pasadena, California",Business,Business Administration
+Marketing Principles,4,California Institute of Technology,"Pasadena, California",Business,Business Administration
+Business Management,5,California Institute of Technology,"Pasadena, California",Business,Business Administration
+Microeconomics,4,California Institute of Technology,"Pasadena, California",Business,Economics
+Macroeconomics,4,California Institute of Technology,"Pasadena, California",Business,Economics
+Econometrics,5,California Institute of Technology,"Pasadena, California",Business,Economics
+Algorithms,4,New York University,"New York City, New York",Information Technology,Software Development
+Web Programming,5,New York University,"New York City, New York",Information Technology,Software Development
+Advanced Databases,4,New York University,"New York City, New York",Information Technology,Software Development
+Network Fundamentals,4,New York University,"New York City, New York",Information Technology,Cybersecurity
+Cryptography,5,New York University,"New York City, New York",Information Technology,Cybersecurity
+Security Auditing,4,New York University,"New York City, New York",Information Technology,Cybersecurity
+Public Policy,3,New York University,"New York City, New York",Management,Public Administration
+Social Management,4,New York University,"New York City, New York",Management,Public Administration
+Government Administration,5,New York University,"New York City, New York",Management,Public Administration
+Accounting II,4,New York University,"New York City, New York",Management,Accounting
+Auditing,4,New York University,"New York City, New York",Management,Accounting
+Corporate Finance,5,New York University,"New York City, New York",Management,Accounting
+Anatomy,4,University of Chicago,"Chicago, Illinois",Health Sciences,Nursing
+Pharmacology,5,University of Chicago,"Chicago, Illinois",Health Sciences,Nursing
+Clinical Care,4,University of Chicago,"Chicago, Illinois",Health Sciences,Nursing
+Biochemistry,4,University of Chicago,"Chicago, Illinois",Health Sciences,Nutrition
+Dietetics,4,University of Chicago,"Chicago, Illinois",Health Sciences,Nutrition
+Sports Nutrition,5,University of Chicago,"Chicago, Illinois",Health Sciences,Nutrition
+Educational Psychology,3,University of Chicago,"Chicago, Illinois",Education,Pedagogy
+Teaching Methods,4,University of Chicago,"Chicago, Illinois",Education,Pedagogy
+Academic Evaluation,5,University of Chicago,"Chicago, Illinois",Education,Pedagogy
+Biomechanics,4,University of Chicago,"Chicago, Illinois",Education,Physical Education
+Sports Training,4,University of Chicago,"Chicago, Illinois",Education,Physical Education
+First Aid,5,University of Chicago,"Chicago, Illinois",Education,Physical Education
+Technical Drawing,4,University of Miami,"Miami, Florida",Architecture,Architecture
+Architectural Design,5,University of Miami,"Miami, Florida",Architecture,Architecture
+Construction I,4,University of Miami,"Miami, Florida",Architecture,Architecture
+Urban Planning,4,University of Miami,"Miami, Florida",Architecture,Urban Planning
+Urban Geography,4,University of Miami,"Miami, Florida",Architecture,Urban Planning
+Sustainable Mobility,5,University of Miami,"Miami, Florida",Architecture,Urban Planning
+Criminology,3,University of Miami,"Miami, Florida",Law,Criminal Law
+Criminal Law I,4,University of Miami,"Miami, Florida",Law,Criminal Law
+Criminal Procedure,5,University of Miami,"Miami, Florida",Law,Criminal Law
+Contracts,4,University of Miami,"Miami, Florida",Law,Civil Law
+Family Law,4,University of Miami,"Miami, Florida",Law,Civil Law
+Inheritance Law,5,University of Miami,"Miami, Florida",Law,Civil Law
+Marine Ecosystems,4,University of Texas at Austin,"Austin, Texas",Biology,Marine Biology
+Zoology,5,University of Texas at Austin,"Austin, Texas",Biology,Marine Biology
+Botany,4,University of Texas at Austin,"Austin, Texas",Biology,Marine Biology
+Genetics,4,University of Texas at Austin,"Austin, Texas",Biology,Biotechnology
+Microbiology,4,University of Texas at Austin,"Austin, Texas",Biology,Biotechnology
+Bioinformatics,5,University of Texas at Austin,"Austin, Texas",Biology,Biotechnology
+Organic Chemistry,4,University of Texas at Austin,"Austin, Texas",Chemistry,Industrial Chemistry
+Thermodynamics,4,University of Texas at Austin,"Austin, Texas",Chemistry,Industrial Chemistry
+Industrial Processes,5,University of Texas at Austin,"Austin, Texas",Chemistry,Industrial Chemistry
+Analytical Chemistry,4,University of Texas at Austin,"Austin, Texas",Chemistry,Pure Chemistry
+Physical Chemistry,4,University of Texas at Austin,"Austin, Texas",Chemistry,Pure Chemistry
+Electrochemistry,5,University of Texas at Austin,"Austin, Texas",Chemistry,Pure Chemistry
+Machine Learning,5,Georgia Institute of Technology,"Atlanta, Georgia",Computer Science,Artificial Intelligence
+Neural Networks,5,Georgia Institute of Technology,"Atlanta, Georgia",Computer Science,Artificial Intelligence
+Advanced Programming,4,Georgia Institute of Technology,"Atlanta, Georgia",Computer Science,Artificial Intelligence
+Android Development,4,Georgia Institute of Technology,"Atlanta, Georgia",Computer Science,Mobile Development
+Flutter Development,4,Georgia Institute of Technology,"Atlanta, Georgia",Computer Science,Mobile Development
+iOS Development,5,Georgia Institute of Technology,"Atlanta, Georgia",Computer Science,Mobile Development
+Global Logistics,4,Georgia Institute of Technology,"Atlanta, Georgia",Business,International Business
+International Economics,4,Georgia Institute of Technology,"Atlanta, Georgia",Business,International Business
+Global Negotiation,5,Georgia Institute of Technology,"Atlanta, Georgia",Business,International Business
+SEO,4,Georgia Institute of Technology,"Atlanta, Georgia",Business,Digital Marketing
+Online Advertising,4,Georgia Institute of Technology,"Atlanta, Georgia",Business,Digital Marketing
+Web Analytics,5,Georgia Institute of Technology,"Atlanta, Georgia",Business,Digital Marketing
+Psychopathology,4,University of Pennsylvania,"Philadelphia, Pennsylvania",Psychology,Clinical Psychology
+Psychological Evaluation,5,University of Pennsylvania,"Philadelphia, Pennsylvania",Psychology,Clinical Psychology
+Cognitive Therapies,4,University of Pennsylvania,"Philadelphia, Pennsylvania",Psychology,Clinical Psychology
+Talent Management,4,University of Pennsylvania,"Philadelphia, Pennsylvania",Psychology,Organizational Psychology
+Labor Psychology,4,University of Pennsylvania,"Philadelphia, Pennsylvania",Psychology,Organizational Psychology
+Organizational Climate,5,University of Pennsylvania,"Philadelphia, Pennsylvania",Psychology,Organizational Psychology
+World History,4,University of Pennsylvania,"Philadelphia, Pennsylvania",Humanities,History
+Modern History,4,University of Pennsylvania,"Philadelphia, Pennsylvania",Humanities,History
+Contemporary History,5,University of Pennsylvania,"Philadelphia, Pennsylvania",Humanities,History
+Ethics,4,University of Pennsylvania,"Philadelphia, Pennsylvania",Humanities,Philosophy
+Logic,4,University of Pennsylvania,"Philadelphia, Pennsylvania",Humanities,Philosophy
+Political Philosophy,5,University of Pennsylvania,"Philadelphia, Pennsylvania",Humanities,Philosophy
+Soil Science,4,University of Colorado Boulder,"Boulder, Colorado",Agriculture,Agricultural Engineering
+Irrigation Systems,5,University of Colorado Boulder,"Boulder, Colorado",Agriculture,Agricultural Engineering
+Crop Production,4,University of Colorado Boulder,"Boulder, Colorado",Agriculture,Agricultural Engineering
+Agroindustrial Processes,4,University of Colorado Boulder,"Boulder, Colorado",Agriculture,Agroindustry
+Food Quality,4,University of Colorado Boulder,"Boulder, Colorado",Agriculture,Agroindustry
+Food Technology,5,University of Colorado Boulder,"Boulder, Colorado",Agriculture,Agroindustry
+Animal Anatomy,4,University of Colorado Boulder,"Boulder, Colorado",Veterinary Sciences,Veterinary Medicine
+Animal Pathology,4,University of Colorado Boulder,"Boulder, Colorado",Veterinary Sciences,Veterinary Medicine
+Veterinary Clinic,5,University of Colorado Boulder,"Boulder, Colorado",Veterinary Sciences,Veterinary Medicine
+Animal Production,4,University of Colorado Boulder,"Boulder, Colorado",Veterinary Sciences,Animal Science
+Animal Genetics,4,University of Colorado Boulder,"Boulder, Colorado",Veterinary Sciences,Animal Science
+Animal Nutrition,5,University of Colorado Boulder,"Boulder, Colorado",Veterinary Sciences,Animal Science
+Advanced Algebra,4,University of Washington,"Seattle, Washington",Mathematics,Pure Mathematics
+Calculus III,5,University of Washington,"Seattle, Washington",Mathematics,Pure Mathematics
+Topology,4,University of Washington,"Seattle, Washington",Mathematics,Pure Mathematics
+Probability,4,University of Washington,"Seattle, Washington",Mathematics,Statistics
+Inferential Statistics,4,University of Washington,"Seattle, Washington",Mathematics,Statistics
+Statistical Models,5,University of Washington,"Seattle, Washington",Mathematics,Statistics
+Quantum Mechanics,5,University of Washington,"Seattle, Washington",Physics,Theoretical Physics
+Relativity,4,University of Washington,"Seattle, Washington",Physics,Theoretical Physics
+Particle Physics,5,University of Washington,"Seattle, Washington",Physics,Theoretical Physics
+Electromagnetism,4,University of Washington,"Seattle, Washington",Physics,Applied Physics
+Optics,4,University of Washington,"Seattle, Washington",Physics,Applied Physics
+Applied Thermodynamics,5,University of Washington,"Seattle, Washington",Physics,Applied Physics

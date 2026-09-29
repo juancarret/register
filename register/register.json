@@ -1,0 +1,444 @@
+{
+  "register": [
+    {
+      "universidad": "California Institute of Technology",
+      "ubicacion": "Pasadena, California",
+      "facultades": [
+        {
+          "nombre": "Engineering",
+          "carreras": [
+            {
+              "nombre": "Computer Science",
+              "materias": [
+                { "nombre": "Introduction to Programming", "credito": 4 },
+                { "nombre": "Data Structures", "credito": 5 },
+                { "nombre": "Database Systems", "credito": 4 }
+              ]
+            },
+            {
+              "nombre": "Electrical Engineering",
+              "materias": [
+                { "nombre": "Circuit Analysis", "credito": 4 },
+                { "nombre": "Digital Systems", "credito": 5 },
+                { "nombre": "Embedded Systems", "credito": 4 }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Business",
+          "carreras": [
+            {
+              "nombre": "Business Administration",
+              "materias": [
+                { "nombre": "Accounting I", "credito": 3 },
+                { "nombre": "Marketing Principles", "credito": 4 },
+                { "nombre": "Business Management", "credito": 5 }
+              ]
+            },
+            {
+              "nombre": "Economics",
+              "materias": [
+                { "nombre": "Microeconomics", "credito": 4 },
+                { "nombre": "Macroeconomics", "credito": 4 },
+                { "nombre": "Econometrics", "credito": 5 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "universidad": "New York University",
+      "ubicacion": "New York City, New York",
+      "facultades": [
+        {
+          "nombre": "Information Technology",
+          "carreras": [
+            {
+              "nombre": "Software Development",
+              "materias": [
+                { "nombre": "Algorithms", "credito": 4 },
+                { "nombre": "Web Programming", "credito": 5 },
+                { "nombre": "Advanced Databases", "credito": 4 }
+              ]
+            },
+            {
+              "nombre": "Cybersecurity",
+              "materias": [
+                { "nombre": "Network Fundamentals", "credito": 4 },
+                { "nombre": "Cryptography", "credito": 5 },
+                { "nombre": "Security Auditing", "credito": 4 }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Management",
+          "carreras": [
+            {
+              "nombre": "Public Administration",
+              "materias": [
+                { "nombre": "Public Policy", "credito": 3 },
+                { "nombre": "Social Management", "credito": 4 },
+                { "nombre": "Government Administration", "credito": 5 }
+              ]
+            },
+            {
+              "nombre": "Accounting",
+              "materias": [
+                { "nombre": "Accounting II", "credito": 4 },
+                { "nombre": "Auditing", "credito": 4 },
+                { "nombre": "Corporate Finance", "credito": 5 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "universidad": "University of Chicago",
+      "ubicacion": "Chicago, Illinois",
+      "facultades": [
+        {
+          "nombre": "Health Sciences",
+          "carreras": [
+            {
+              "nombre": "Nursing",
+              "materias": [
+                { "nombre": "Anatomy", "credito": 4 },
+                { "nombre": "Pharmacology", "credito": 5 },
+                { "nombre": "Clinical Care", "credito": 4 }
+              ]
+            },
+            {
+              "nombre": "Nutrition",
+              "materias": [
+                { "nombre": "Biochemistry", "credito": 4 },
+                { "nombre": "Dietetics", "credito": 4 },
+                { "nombre": "Sports Nutrition", "credito": 5 }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Education",
+          "carreras": [
+            {
+              "nombre": "Pedagogy",
+              "materias": [
+                { "nombre": "Educational Psychology", "credito": 3 },
+                { "nombre": "Teaching Methods", "credito": 4 },
+                { "nombre": "Academic Evaluation", "credito": 5 }
+              ]
+            },
+            {
+              "nombre": "Physical Education",
+              "materias": [
+                { "nombre": "Biomechanics", "credito": 4 },
+                { "nombre": "Sports Training", "credito": 4 },
+                { "nombre": "First Aid", "credito": 5 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "universidad": "University of Miami",
+      "ubicacion": "Miami, Florida",
+      "facultades": [
+        {
+          "nombre": "Architecture",
+          "carreras": [
+            {
+              "nombre": "Architecture",
+              "materias": [
+                { "nombre": "Technical Drawing", "credito": 4 },
+                { "nombre": "Architectural Design", "credito": 5 },
+                { "nombre": "Construction I", "credito": 4 }
+              ]
+            },
+            {
+              "nombre": "Urban Planning",
+              "materias": [
+                { "nombre": "Urban Planning", "credito": 4 },
+                { "nombre": "Urban Geography", "credito": 4 },
+                { "nombre": "Sustainable Mobility", "credito": 5 }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Law",
+          "carreras": [
+            {
+              "nombre": "Criminal Law",
+              "materias": [
+                { "nombre": "Criminology", "credito": 3 },
+                { "nombre": "Criminal Law I", "credito": 4 },
+                { "nombre": "Criminal Procedure", "credito": 5 }
+              ]
+            },
+            {
+              "nombre": "Civil Law",
+              "materias": [
+                { "nombre": "Contracts", "credito": 4 },
+                { "nombre": "Family Law", "credito": 4 },
+                { "nombre": "Inheritance Law", "credito": 5 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "universidad": "University of Texas at Austin",
+      "ubicacion": "Austin, Texas",
+      "facultades": [
+        {
+          "nombre": "Biology",
+          "carreras": [
+            {
+              "nombre": "Marine Biology",
+              "materias": [
+                { "nombre": "Marine Ecosystems", "credito": 4 },
+                { "nombre": "Zoology", "credito": 5 },
+                { "nombre": "Botany", "credito": 4 }
+              ]
+            },
+            {
+              "nombre": "Biotechnology",
+              "materias": [
+                { "nombre": "Genetics", "credito": 4 },
+                { "nombre": "Microbiology", "credito": 4 },
+                { "nombre": "Bioinformatics", "credito": 5 }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Chemistry",
+          "carreras": [
+            {
+              "nombre": "Industrial Chemistry",
+              "materias": [
+                { "nombre": "Organic Chemistry", "credito": 4 },
+                { "nombre": "Thermodynamics", "credito": 4 },
+                { "nombre": "Industrial Processes", "credito": 5 }
+              ]
+            },
+            {
+              "nombre": "Pure Chemistry",
+              "materias": [
+                { "nombre": "Analytical Chemistry", "credito": 4 },
+                { "nombre": "Physical Chemistry", "credito": 4 },
+                { "nombre": "Electrochemistry", "credito": 5 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "universidad": "Georgia Institute of Technology",
+      "ubicacion": "Atlanta, Georgia",
+      "facultades": [
+        {
+          "nombre": "Computer Science",
+          "carreras": [
+            {
+              "nombre": "Artificial Intelligence",
+              "materias": [
+                { "nombre": "Machine Learning", "credito": 5 },
+                { "nombre": "Neural Networks", "credito": 5 },
+                { "nombre": "Advanced Programming", "credito": 4 }
+              ]
+            },
+            {
+              "nombre": "Mobile Development",
+              "materias": [
+                { "nombre": "Android Development", "credito": 4 },
+                { "nombre": "Flutter Development", "credito": 4 },
+                { "nombre": "iOS Development", "credito": 5 }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Business",
+          "carreras": [
+            {
+              "nombre": "International Business",
+              "materias": [
+                { "nombre": "Global Logistics", "credito": 4 },
+                { "nombre": "International Economics", "credito": 4 },
+                { "nombre": "Global Negotiation", "credito": 5 }
+              ]
+            },
+            {
+              "nombre": "Digital Marketing",
+              "materias": [
+                { "nombre": "SEO", "credito": 4 },
+                { "nombre": "Online Advertising", "credito": 4 },
+                { "nombre": "Web Analytics", "credito": 5 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "universidad": "University of Pennsylvania",
+      "ubicacion": "Philadelphia, Pennsylvania",
+      "facultades": [
+        {
+          "nombre": "Psychology",
+          "carreras": [
+            {
+              "nombre": "Clinical Psychology",
+              "materias": [
+                { "nombre": "Psychopathology", "credito": 4 },
+                { "nombre": "Psychological Evaluation", "credito": 5 },
+                { "nombre": "Cognitive Therapies", "credito": 4 }
+              ]
+            },
+            {
+              "nombre": "Organizational Psychology",
+              "materias": [
+                { "nombre": "Talent Management", "credito": 4 },
+                { "nombre": "Labor Psychology", "credito": 4 },
+                { "nombre": "Organizational Climate", "credito": 5 }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Humanities",
+          "carreras": [
+            {
+              "nombre": "History",
+              "materias": [
+                { "nombre": "World History", "credito": 4 },
+                { "nombre": "Modern History", "credito": 4 },
+                { "nombre": "Contemporary History", "credito": 5 }
+              ]
+            },
+            {
+              "nombre": "Philosophy",
+              "materias": [
+                { "nombre": "Ethics", "credito": 4 },
+                { "nombre": "Logic", "credito": 4 },
+                { "nombre": "Political Philosophy", "credito": 5 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "universidad": "University of Colorado Boulder",
+      "ubicacion": "Boulder, Colorado",
+      "facultades": [
+        {
+          "nombre": "Agriculture",
+          "carreras": [
+            {
+              "nombre": "Agricultural Engineering",
+              "materias": [
+                { "nombre": "Soil Science", "credito": 4 },
+                { "nombre": "Irrigation Systems", "credito": 5 },
+                { "nombre": "Crop Production", "credito": 4 }
+              ]
+            },
+            {
+              "nombre": "Agroindustry",
+              "materias": [
+                { "nombre": "Agroindustrial Processes", "credito": 4 },
+                { "nombre": "Food Quality", "credito": 4 },
+                { "nombre": "Food Technology", "credito": 5 }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Veterinary Sciences",
+          "carreras": [
+            {
+              "nombre": "Veterinary Medicine",
+              "materias": [
+                { "nombre": "Animal Anatomy", "credito": 4 },
+                { "nombre": "Animal Pathology", "credito": 4 },
+                { "nombre": "Veterinary Clinic", "credito": 5 }
+              ]
+            },
+            {
+              "nombre": "Animal Science",
+              "materias": [
+                { "nombre": "Animal Production", "credito": 4 },
+                { "nombre": "Animal Genetics", "credito": 4 },
+                { "nombre": "Animal Nutrition", "credito": 5 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "universidad": "University of Washington",
+      "ubicacion": "Seattle, Washington",
+      "facultades": [
+        {
+          "nombre": "Mathematics",
+          "carreras": [
+            {
+              "nombre": "Pure Mathematics",
+              "materias": [
+                { "nombre": "Advanced Algebra", "credito": 4 },
+                { "nombre": "Calculus III", "credito": 5 },
+                { "nombre": "Topology", "credito": 4 }
+              ]
+            },
+            {
+              "nombre": "Statistics",
+              "materias": [
+                { "nombre": "Probability", "credito": 4 },
+                { "nombre": "Inferential Statistics", "credito": 4 },
+                { "nombre": "Statistical Models", "credito": 5 }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Physics",
+          "carreras": [
+            {
+              "nombre": "Theoretical Physics",
+              "materias": [
+                { "nombre": "Quantum Mechanics", "credito": 5 },
+                { "nombre": "Relativity", "credito": 4 },
+                { "nombre": "Particle Physics", "credito": 5 }
+              ]
+            },
+            {
+              "nombre": "Applied Physics",
+              "materias": [
+                { "nombre": "Electromagnetism", "credito": 4 },
+                { "nombre": "Optics", "credito": 4 },
+                { "nombre": "Applied Thermodynamics", "credito": 5 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
